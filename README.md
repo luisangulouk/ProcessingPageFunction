@@ -2,7 +2,7 @@
 
 ## Run the test
 
-open index.html on google Chrome, browser must support Async and error functions 
+open index.html on google Chrome, browser must support Async and error functions, open developer console to see the process stages on loading page
 
 ## Results
 
